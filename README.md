@@ -6,9 +6,7 @@
 
 ## Azure
 
-```javascript
 https://ietinataliapalacios.z21.web.core.windows.net/
-```
 
 ## Running Instructions
 
